@@ -6,5 +6,3 @@ this is a test
 how about a third line
 
 maybe a forth?
-
-that should be enough
